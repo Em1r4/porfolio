@@ -1,0 +1,190 @@
+
+*{ 
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: 0 auto;
+    max-width: 80vw;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    
+
+}
+.conteiner1 {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: 0 auto;
+    max-width: 80vw;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    
+
+    
+}
+
+header{ 
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;  
+    background-color: rgb(37, 37, 37);
+}
+
+ul{ 
+    text-align: center;
+    padding: 0px;
+    list-style: none;
+}
+
+li{
+    display: inline;
+    padding: 20px;
+    font-size: 16px;
+    line-height: 50px;
+    text-transform:uppercase;
+}
+
+a{ 
+    color: white;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:hover{
+    color: red;
+}
+
+
+.me {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.goal {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #444444;
+background: #FFFFFF;
+text-shadow: 1px 0px 1px #CCCCCC, 0px 1px 1px #EEEEEE, 2px 1px 1px #CCCCCC, 1px 2px 1px #EEEEEE, 3px 2px 1px #CCCCCC, 2px 3px 1px #EEEEEE, 4px 3px 1px #CCCCCC, 3px 4px 1px #EEEEEE, 5px 4px 1px #CCCCCC, 4px 5px 1px #EEEEEE, 6px 5px 1px #CCCCCC, 5px 6px 1px #EEEEEE, 7px 6px 1px #CCCCCC;
+}
+
+.hobby {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.walk {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(113, 112, 112);
+   
+}
+
+.about {
+    display: flex;
+    justify-content: center;
+}
+.about1{
+    font-size: 40px;
+    color: #333333;
+    background: #FFFFFF;
+    text-shadow: 1px 0px 1px #CCCCCC, 0px 1px 1px #EEEEEE, 2px 1px 1px #CCCCCC, 1px 2px 1px #EEEEEE, 3px 2px 1px #CCCCCC, 2px 3px 1px #EEEEEE, 4px 3px 1px #CCCCCC, 3px 4px 1px #EEEEEE, 5px 4px 1px #CCCCCC, 4px 5px 1px #EEEEEE, 6px 5px 1px #CCCCCC, 5px 6px 1px #EEEEEE, 7px 6px 1px #CCCCCC;
+} 
+
+section{
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+
+
+}
+.emir {
+    width: 1000px;
+    height: 300px;
+    border: black solid 1px;
+}
+
+/* section h1 { 
+    font-size: 30px;
+} */
+ p {
+    font-size: 20px;
+    color: rgb(113, 112, 112) ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px 0px 20px;
+}
+
+.about2{
+    font-size: 40px;
+    color: #333333;
+    background: #FFFFFF;
+    text-shadow: 1px 0px 1px #CCCCCC, 0px 1px 1px #EEEEEE, 2px 1px 1px #CCCCCC, 1px 2px 1px #EEEEEE, 3px 2px 1px #CCCCCC, 2px 3px 1px #EEEEEE, 4px 3px 1px #CCCCCC, 3px 4px 1px #EEEEEE, 5px 4px 1px #CCCCCC, 4px 5px 1px #EEEEEE, 6px 5px 1px #CCCCCC, 5px 6px 1px #EEEEEE, 7px 6px 1px #CCCCCC; 
+}
+
+.about3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.proects {
+    width: 45%;
+    border: black solid 5px;
+}
+
+.conteiner3 {
+    padding-right: 50px;
+    padding-left: 50px;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 100%;
+    background-color: cadetblue;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    border: #333333 solid 1px;
+    background-color: rgb(37, 37, 37);
+}
+
+.container4 {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.around {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+
+    
+}
+
+footer {
+    width: 100%;
+    height: 80px;
+    background-color: #444444;
+
+}
+
+.contacts {
+    font-size: 30px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;  
+    
+}
